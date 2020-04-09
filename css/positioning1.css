@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.box {
+    width: 150px;
+    height:150px;
+    margin: auto;
+    background-color:blueviolet;
+    position: absolute;;
+    left:300px ;
+    top:300px;
+ 
+      
+
+}

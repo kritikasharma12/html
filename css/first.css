@@ -1,0 +1,18 @@
+body {
+background-color: lightsteelblue;
+}
+a{
+color: black; 
+text-decoration: none;
+}
+h1
+{
+    font-family: sans-serif;
+   
+
+}
+div{
+    margin: auto;
+    width : 500px;
+
+}

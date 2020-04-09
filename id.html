@@ -1,0 +1,44 @@
+ <html>
+     <head>
+         <meta charset="utf-8" />
+         <title>id and classes</title>
+         <style>
+           #emphasis{
+               color: red;
+           }
+           .emphasis{
+               color:green;
+           }
+           ul:first_of_type li:nth-child(3)
+           {
+               color:brown ; 
+           }
+           #sect li:nth-child(3)
+           {
+               color:purple ; 
+           }
+         </style>
+     </head>
+     <body>
+        <h1>hey yo!</h1>
+         <ul>
+           <li class="emphasis">kiki</li>
+           <li id="emphasis">do you</li>
+           <li class="emphasis"> love</li>
+           <li>me</li>
+         </ul>
+         <ul id="sect">
+            <li>kiki</li>
+            <li>do you</li>
+            <li> love</li>
+            <li>me</li>
+          </ul>
+          <ul>
+            <li>kiki</li>
+            <li>do you</li>
+            <li > love</li>
+            <li>me</li>
+          </ul>
+     </body>
+
+ </html>

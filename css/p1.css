@@ -1,0 +1,50 @@
+body{
+    background: url("pexels-photo-129731.jpeg")
+    no-repeat center center fixed;
+    background-size:cover;
+    font-family: sans-serif;
+}
+.container{
+width:40%;
+margin:auto;
+overflow:hidden;
+padding:10px;
+background-color: #fff;
+border-radius: 10px;
+text-align: center;
+margin-top:4%;
+
+}
+hr{
+    width:75%;
+}
+.fb
+{
+    padding:5px;
+    color:#fff;
+    background-color: #426782;
+    border:none;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+.container input{
+    padding:0.5rem;
+    width:70%;
+    border-radius: 5px;
+}
+.container input[type=checkbox]
+{
+    width:auto; 
+}
+.btn
+{
+    padding:10px;
+    background-color: #2ecc71;
+    font-size: 19px;
+    width:50%;
+    border-radius:7px;
+    border:none;
+
+}

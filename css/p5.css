@@ -1,0 +1,92 @@
+body{
+    background: url("BCK2.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    font-family: sans-serif;
+}
+header{
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+}
+.class1{
+    color: orangered;
+    float:left;
+    font-family: cursive;
+    text-shadow:2px 3px 1px  rgb(105, 69, 55);
+    letter-spacing: 2px;
+}
+nav{
+    float:right;
+}
+nav li{
+    display:inline;
+    padding: 1rem;
+}
+nav li a{
+    color:#fff;
+    text-decoration: none;
+    font-weight:bold ; 
+}
+.container{
+    width:70%;
+    margin:auto;
+    overflow: hidden;
+    margin-top: 1%;
+  
+}
+showcase h1{
+
+    color:#fff;
+    
+    font-family: cursive;
+    text-align: center;
+}
+showcase h3{
+    color:#fff;
+    text-align: center;
+    letter-spacing: 0.2rem;
+
+}
+showcase h4{
+    font-size:1.5rem ;
+    margin:3%;
+}
+showcase p{
+    color:#fff;
+     font-family: cursive;
+     text-align: center;
+     letter-spacing: 2px;
+}
+.btn {
+    margin:auto;
+    background-color: gold;
+    border-radius: 0.5rem;
+    align-content: center;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border-color: gold;
+}
+footer{
+    text-align: center;
+}
+showcase img{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+}
+.active{
+    color:gold;
+}
+.category{
+    margin-top:5%;
+    display:flex;
+    text-align: center;
+    font-family: cursive;
+    padding-left: 50px;
+}
+.snacks,.grill{
+    padding-left: 1rem;
+}
+
+
